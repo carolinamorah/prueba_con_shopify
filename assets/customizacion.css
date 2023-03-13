@@ -1,0 +1,11 @@
+li > a > span {
+    text-decoration:line-through !important;
+}
+
+button.shopify-payment-button__button{
+  color: black !important;
+}
+
+.footer__content-bottom-wrapper{
+  justify-content: center !important;
+}
